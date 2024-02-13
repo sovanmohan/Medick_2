@@ -449,3 +449,35 @@ Author URL: http://w3layouts.com
 </body>
 
 </html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Azure Health Bot Integration</title>
+  <!-- Include the Health Bot Web Chat control script -->
+  <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat-es5.js"></script>
+  <style>
+  /* Additional styling for the webchat container */
+  #webchat {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  }
+  </style>
+  </head>
+  <body>
+  <h1>Medickbot At service </h1>
+  <!-- Container for the Web Chat control -->
+  <div id="webchat"></div>
+  <script>
+  // Replace 'YOUR_DIRECT_LINE_SECRET' with your Health Bot Web Chat secret
+  const directLineSecret = "N1N7oZ9Zh2c.SOGPNEtYju4Qy_Q6o2k78z2Vmq_dkFBfXLvqkzKy7yY";
+  // Set up the Web Chat control
+  window.WebChat.renderWebChat({
+  directLine: window.WebChat.createDirectLine({ token: directLineSecret }),
+  }, document.getElementById('webchat'));
+  </script>
+  </body>
+  </html>
