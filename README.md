@@ -256,6 +256,8 @@ Use the Health Bot management portal to set up health scenarios and prompts.
 *11. Test and Integrate:*
 Validate your Health Bot within Azure and integrate it into your applications or platforms as required.
 
+![Azure Healthbot](https://github.com/sovanmohan/Medick_2/assets/112297485/e231c710-a791-43e1-b44d-308be8a1ec12)
+
 # STAGE 8 : STEPS FOR INTEGRATING HEALTHBOT TO YOUR WEBSITE
  
  1. Once the resource is created, open the health bot management portal using the provided “Management portal link”.
