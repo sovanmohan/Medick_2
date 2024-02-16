@@ -219,6 +219,8 @@ Once deployed, go to the "Storage accounts" section in the Azure Portal, click o
 *8. Containers :*
 Go to containers in data storage and upload files by drag and drop.
 
+![Storage accounts](https://github.com/sovanmohan/Medick_2/assets/112297485/fa7da87e-e50c-4853-ba19-2aa24c121372)
+
 # STAGE 7 : STEPS FOR CREATING HEALTH BOT
 
 *1. Azure Portal:*
