@@ -289,6 +289,9 @@ Implement the necessary logic to handle user interactions and messages sent to a
 *11. Test Integration:*
 Test the Health Bot integration on your website to ensure that user inputs are correctly processed, and responses are displayed.
 
+![healthbot integrate](https://github.com/sovanmohan/Medick_2/assets/112297485/316abd4c-d1b0-4bff-a15f-605d82489eb3)
+
+
 # MEDICK HEALTHBOT
 ![heathbot](https://github.com/sovanmohan/Medick_2/assets/112297485/c9e3bfee-083d-47ec-b9bd-3a7170bf56b1)
 # MEDICK HOMEPAGE
