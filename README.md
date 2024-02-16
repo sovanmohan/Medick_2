@@ -188,6 +188,7 @@ Azure will deploy your static web app. Wait for the deployment to complete.
 
 *7. Access Your Website:*
 Once deployed, go to the Static Web Apps resource in the Azure Portal, find the "URL" under the "Overview" section, and access your website.
+![static websites](https://github.com/sovanmohan/Medick_2/assets/112297485/ff83b3d6-9c86-41b5-b9cf-85e0ddd97848)
 
 **MY WEBSITE URL :**https://orange-river-05bc63810.4.azurestaticapps.net
 
