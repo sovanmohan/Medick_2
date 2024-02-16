@@ -284,13 +284,3 @@ Implement the necessary logic to handle user interactions and messages sent to a
 *11. Test Integration:*
 Test the Health Bot integration on your website to ensure that user inputs are correctly processed, and responses are displayed.
 
-# MY PROJECT (DR. CARE) - HOMEPAGE
-
-
-# MY PROJECT (DR. CARE) - ABOUTUS
-
-
-# MY PROJECT (DR. CARE) - AZURE MAPS
-
-
-# MY PROJECT (DR. CARE) - HEALTHBOT
